@@ -22,6 +22,8 @@ import org.springframework.web.bind.annotation.RestController;
 
 import static org.springframework.web.bind.annotation.RequestMethod.GET;
 
+import java.io.File;
+
 /**
  * This is the entry point for our hello route
 */
